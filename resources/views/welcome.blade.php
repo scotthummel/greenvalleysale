@@ -116,12 +116,6 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <img src="/images/42.JPG" class="img-responsive"/>
-                    <p>Floor lamp</p>
-                </div>
-            </div>
             <div role="tabpanel" class="tab-pane" id="knickknacks">
                 <div class="row">
                     <div class="col-md-4">
