@@ -69,7 +69,7 @@
                         <p>Antique, walnut dovetailed ches of drawers. Late 1800s/early 1900s era. $400</p>
                     </div>
                     <div class="col-md-4">
-                        <img src="/images/49.JPG" class="img-responsive"/>
+                        <img src="/images/49.jpg" class="img-responsive"/>
                         <p>Classy lamp and stylish end table.</p>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                         <p>End table with tile top.</p>
                     </div>
                     <div class="col-md-4">
-                        <img src="/images/48.JPG" class="img-responsive"/>
+                        <img src="/images/48.jpg" class="img-responsive"/>
                         <p>Antique hutch with glass-doored top. $400.</p>
                     </div>
                 </div>
