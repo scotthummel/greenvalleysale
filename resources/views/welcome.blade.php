@@ -40,7 +40,6 @@
             <li role="presentation"><a href="#knickknacks" aria-controls="knickknacks" role="tab" data-toggle="tab">Knickknacks</a></li>
             <li role="presentation"><a href="#clothes" aria-controls="clothes" role="tab" data-toggle="tab">Clothes</a></li>
             <li role="presentation"><a href="#electronics" aria-controls="electronics" role="tab" data-toggle="tab">Electronics</a></li>
-            <li role="presentation"><a href="#misc" aria-controls="misc" role="tab" data-toggle="tab">Miscellaneous</a></li>
         </ul>
 
         <!-- Tab panes -->
@@ -49,7 +48,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/6.JPG" class="img-responsive"/>
-                        <p>High-end wall unit/entertainment center</p>
+                        <p>High-end wall unit/entertainment center from Crate and Barrel. Paid $5,000.</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/19z.JPG" class="img-responsive"/>
@@ -62,30 +61,54 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4">
+                        <img src="/images/45.JPG" class="img-responsive"/>
+                        <p>Hand-caned antique chair.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/47.JPG" class="img-responsive"/>
+                        <p>Antique, dovetailed dresser.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/49.JPG" class="img-responsive"/>
+                        <p>Classy lamp and stylish end table.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
                         <img src="/images/28.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Antique dresser with dovetailed drawers.</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/33.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Comfortable chair.</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/34.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Jennifer Sofas hide-a-bed.</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/36.JPG" class="img-responsive"/>
-                        <p>Urn</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="/images/37.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Contemporary kitchen table and chairs.</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/38.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>End table with tile top.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/48.JPG" class="img-responsive"/>
+                        <p>Antique hutch with glass-doored top.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="/images/40.JPG" class="img-responsive"/>
+                        <p>Antique dresser with dovetailed drawers.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/37.JPG" class="img-responsive"/>
+                        <p>Floor lamp.</p>
                     </div>
                 </div>
             </div>
@@ -101,6 +124,7 @@
                     </div>
                     <div class="col-md-4">
                         <img src="/images/3.JPG" class="img-responsive"/>
+                        <p>Silver platter</p>
                     </div>
                 </div>
 
@@ -122,65 +146,64 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/25.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Ceramic urns</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/26.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Lithograph of New Mexico cliff dwellings</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/27.JPG" class="img-responsive"/>
-                        <p>Urn</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-4">
-                        <img src="/images/25.JPG" class="img-responsive"/>
-                        <p>Urn</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="/images/26.JPG" class="img-responsive"/>
-                        <p>Urn</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="/images/27.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Faux antique wall clock</p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/29.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Mirror</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/31.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Mirror</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/32.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>End table and lamp</p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/35.JPG" class="img-responsive"/>
-                        <p>Urn</p>
+                        <p>Wall art</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/39.JPG" class="img-responsive"/>
+                        <p>Small Christmas tree</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/44.JPG" class="img-responsive"/>
+                        <p>Watercolor print</p>
                     </div>
                 </div>
             </div>
-            <div role="tabpanel" class="tab-pane" id="clothes"></div>
+            <div role="tabpanel" class="tab-pane" id="clothes">
+                <p>Hundreds of pairs of pants (size 8-10) and shirts (sizes S and M) in all colors and patterns. Very stylish! Never-worn bathing suits with the tags still on (size 12). If you're a woman who likes to look sharp, don't miss out on these.</p>
+            </div>
             <div role="tabpanel" class="tab-pane" id="electronics">
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/7.JPG" class="img-responsive"/>
-                        <p>Samsung flat screen TV</p>
+                        <p>Samsung flat screen TV. Excellent working condition. Barely watched.</p>
                     </div>
                     <div class="col-md-4">
-                        <img src="/images/4.JPG" class="img-responsive"/>
-                        <p>Bose high-end receiver and 3-disc changer.</p>
+                        <img src="/images/41.JPG" class="img-responsive"/>
+                        <p>Samsung flat screen TV. Excellent working condition. Barely watched.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/43.JPG" class="img-responsive"/>
+                        <p>Samsung flat screen TV. Excellent working condition. Barely watched.</p>
                     </div>
                 </div>
             </div>
@@ -188,6 +211,10 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/39.JPG" class="img-responsive"/>
+                        <p>Urn</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/44.JPG" class="img-responsive"/>
                         <p>Urn</p>
                     </div>
                 </div>
