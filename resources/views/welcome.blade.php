@@ -209,10 +209,6 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <img src="/images/54.JPG" class="img-responsive"/>
-                        <p>Watercolor. Negotiable.</p>
-                    </div>
-                    <div class="col-md-4">
                         <img src="/images/55.JPG" class="img-responsive"/>
                         <p>Painting of Mata Ortiz bowls. Negotiable.</p>
                     </div>
