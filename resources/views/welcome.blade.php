@@ -120,6 +120,16 @@
                         <img src="/images/50.JPG" class="img-responsive"/>
                         <p>Two 29" padded saddle bar stools. Barely used. Espresso color. $25 each.</p>
                     </div>
+                    <div class="col-md-4">
+                        <img src="/images/57.JPG" class="img-responsive"/>
+                        <p>End table. $75.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/52.JPG" class="img-responsive"/>
+                        <img src="/images/53.JPG" class="img-responsive"/>
+                        <img src="/images/56.JPG" class="img-responsive"/>
+                        <p>Coffee table with glass shelf. $200</p>
+                    </div>
                 </div>
             </div>
             <div role="tabpanel" class="tab-pane" id="knickknacks">
@@ -195,6 +205,16 @@
                     <div class="col-md-4">
                         <img src="/images/44.JPG" class="img-responsive"/>
                         <p>Watercolor print</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="/images/54.JPG" class="img-responsive"/>
+                        <p>Watercolor. Negotiable.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/images/55.JPG" class="img-responsive"/>
+                        <p>Painting of Mata Ortiz bowls. Negotiable.</p>
                     </div>
                 </div>
             </div>
