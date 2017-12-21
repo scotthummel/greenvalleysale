@@ -28,7 +28,7 @@
 <div class="container">
     <h1 class="text-center">Green Valley Sale</h1>
 
-    <p class="text-center">Going fast! Quality home furnishings, clothes, knickknacks, kitchen ware, lots more! Call Julie at 703-981-4235 for more information. All items in excellent condition. Barely used! Non-priced items -- best offer. All prices negotiable. Other items available that are not pictured. <strong style="color: red;">New items being added all the time! Check back regularly.</strong></p>
+    <p class="text-center">Going fast! Quality home furnishings, clothes, knickknacks, kitchen ware, lots more! Call Julie at 202-579-9966 for more information. All items in excellent condition. Barely used! Non-priced items -- best offer. All prices negotiable. Other items available that are not pictured. <strong style="color: red;">New items being added all the time! Check back regularly.</strong></p>
 
     <br />
 
@@ -115,6 +115,12 @@
                         <p>Gently used couch. $200</p>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="/images/50.JPG" class="img-responsive"/>
+                        <p>Two 29" padded saddle bar stools. Barely used. Espresso color. $25 each.</p>
+                    </div>
+                </div>
             </div>
             <div role="tabpanel" class="tab-pane" id="knickknacks">
                 <div class="row">
@@ -193,7 +199,12 @@
                 </div>
             </div>
             <div role="tabpanel" class="tab-pane" id="clothes">
-                <p>Hundreds of pairs of pants (size 8-10) and shirts (sizes S and M) in all colors and patterns. Very stylish! Never-worn bathing suits with the tags still on (size 12). If you're a woman who likes to look sharp, don't miss out on these.</p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="/images/51.JPG" class="img-responsive"/>
+                        <p>Hundreds of pairs of pants (size 8-10) and shirts (sizes S and M) in all colors and patterns. Very stylish! Never-worn bathing suits with the tags still on (size 12). If you're a woman who likes to look sharp, don't miss out on these.</p>
+                    </div>
+                </div>
             </div>
             <div role="tabpanel" class="tab-pane" id="electronics">
                 <div class="row">
