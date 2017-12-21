@@ -196,7 +196,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="/images/35.JPG" class="img-responsive"/>
-                        <p>Wall art</p>
+                        <p>Roger Archibald lithograph</p>
                     </div>
                     <div class="col-md-4">
                         <img src="/images/39.JPG" class="img-responsive"/>
